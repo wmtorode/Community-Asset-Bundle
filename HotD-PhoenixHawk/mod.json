@@ -52,7 +52,6 @@
         { "Type": "Prefab", "Path": "Assets/Character/Mechs/Prefabs/Weapons/PhoenixHawk/chrPrfWeap_phoenixhawk_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phoenixhawkhotd-001" },
         { "Type": "Prefab", "Path": "Assets/Character/Mechs/Prefabs/Weapons/PhoenixHawk/chrPrfWeap_phoenixhawk_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_phoenixhawkhotd-001" },
         { "Type": "Prefab", "Path": "Assets/Character/Mechs/Prefabs/Components/PhoenixHawk/chrPrfComp_phoenixhawk_simgame.prefab", "AssetBundleName": "chrprfmech_phoenixhawkhotd-001" },
-        { "Type": "Prefab", "Path": "Assets/Character/Mechs/Prefabs/chrPrfMech_phoenixhawkHotD-001.prefab", "AssetBundleName": "chrprfmech_phoenixhawkhotd-001" },
 		
         { "Type": "HardpointDataDef", "Path": "hardpoints" }
     ]
