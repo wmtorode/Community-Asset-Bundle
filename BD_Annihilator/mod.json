@@ -55,6 +55,5 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/annihilator/chrPrfComp_annihilator_simgame.prefab", "AssetBundleName": "chrprfmech_annihilatorbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_annihilatorbase-001.prefab", "AssetBundleName": "chrprfmech_annihilatorbase-001" },
 
-		{ "Type": "HardpointDataDef", "Path": "hardpoints" }
 	]
 }
